@@ -1,0 +1,9 @@
+NAME	Tiffany genome v1
+STUDY	PRJEB52541
+SAMPLE	ERS12473234
+ASSEMBLY_TYPE	clone or isolate
+COVERAGE	20.0
+PROGRAM	Hifiasm
+PLATFORM	PacBio HiFi
+FLATFILE	result.fix.embl.gz
+CHROMOSOME_LIST	chrs.list.gz 
